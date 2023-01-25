@@ -20,3 +20,4 @@
 # 11. 과일 장수 - Level 1(Solve)
 (풀이를 본 것은 아니지만,Array자료형도 list.subList()로 원하는 만큼 자를 수 있다.)
 # 12. 삼총사 - Level 1(Solve)
+# 13. 핸드폰 키패트 - Level 1(Solve)
