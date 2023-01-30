@@ -23,3 +23,4 @@
 # 13. 핸드폰 키패트 - Level 1(Solve)
 # 14. 수박수박수박수박수박수? - Level 1(Solve)
 # 15. 문자열을 정수로 - Level 1(Solve)
+# 16. 최빈값 찾기 - Level 0(Solve)
