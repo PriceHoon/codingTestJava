@@ -25,3 +25,4 @@
 # 15. 문자열을 정수로 - Level 1(Solve)
 # 16. 최빈값 찾기 - Level 0(Solve)
 # 17. 시저 암호 - Level 1(Solve)
+# 18. 약수의 합 - Level 1(Solve)
