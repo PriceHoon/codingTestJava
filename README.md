@@ -26,3 +26,4 @@
 # 16. 최빈값 찾기 - Level 0(Solve)
 # 17. 시저 암호 - Level 1(Solve)
 # 18. 약수의 합 - Level 1(Solve)
+# 19. 이상한 문자 만들기 - Level 1(Solve)
