@@ -27,4 +27,4 @@
 # 17. 시저 암호 - Level 1(Solve)
 # 18. 약수의 합 - Level 1(Solve)
 # 19. 이상한 문자 만들기 - Level 1(Solve)
-# 19. 자릿수 더하기 - Level 1(Solve)
+# 20. 자릿수 더하기 - Level 1(Solve)
