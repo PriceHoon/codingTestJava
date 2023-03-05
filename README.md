@@ -36,4 +36,5 @@
 # 24. 작은 수 제거하기 - Level 1(Solve)
 # 25. 짝수와 홀수 - Level 1(Solve)
 # 26. 평균 구하기 - Level 1(Solve)
+# 27. 직사각형 별찍기 - Level 1(Solve)
 
