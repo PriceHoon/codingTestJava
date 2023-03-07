@@ -38,6 +38,6 @@
 # 26. 평균 구하기 - Level 1(Solve)
 # 27. 직사각형 별찍기 - Level 1(Solve)
 # 28. (카카오)다트게임 - Level 1(Unsolved)
-# 29. (카카오)다트게임 - Level 1(Unsolved)
+# 29. (카카오)마라톤 게임 - Level 1(Unsolved)
 (LinkedList의 자료구조에 대해 좀 더 알아보자..!)
 
