@@ -41,4 +41,6 @@
 # 29. (카카오)마라톤 게임 - Level 1(Unsolved)
 (LinkedList의 자료구조에 대해 좀 더 알아보자..!)
 # 30. 모의고사 - Level 1(Solved)
+# 31. 체육복 - Level 1(Solved)
+(살짝 힌트를 얻어서 풀었음)
 
