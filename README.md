@@ -46,4 +46,5 @@
 # 32. 실패율 KaKao - Level1(Unsolved)
 (접근은 동일했으나 비교하여 바꿔주는 로직에서 풀이를 참고했음.)
 # 33. 두 개 뽑아서 더하기 - Level1(Solved)
+# 34. 인형뽑기 KaKao - Level1(Solved)
 
