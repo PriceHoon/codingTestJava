@@ -47,4 +47,6 @@
 (접근은 동일했으나 비교하여 바꿔주는 로직에서 풀이를 참고했음.)
 # 33. 두 개 뽑아서 더하기 - Level1(Solved)
 # 34. 인형뽑기 KaKao - Level1(Solved)
+# 35. 내적 - Level1(Solved)
+# 36. 신규아이디 추천 KaKao - Level1(Solved)
 
