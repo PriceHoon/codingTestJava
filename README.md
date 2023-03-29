@@ -2,6 +2,8 @@
 ![img.png](img.png)
 > * 지금이라도 커밋해보는 하루 1개 코딩테스트 - Java Programmers
 
+# Level - 1
+
 # 1. 문자열 내림차순으로 배치하기 - Level 1 (Solve)
 # 2. 문자열 내 p와 y의 개수 - Level 1 (Solve)
 # 3. 김서방 찾기 - Level 1 (Solve)
@@ -49,4 +51,13 @@
 # 34. 인형뽑기 KaKao - Level1(Solved)
 # 35. 내적 - Level1(Solved)
 # 36. 신규아이디 추천 KaKao - Level1(Solved)
+# 37. 음양 더하기 - Level1(Solved)
+# 38. 로또의 최고 순위와 최저 순위 - Level1(Solved)
+# 39. 약수의 개수와 덧셈 - Level1(Solved)
 
+---
+
+# Level - 2
+
+# 1. 땅따먹기 - Level2(Unsolved)
+(dp에 대한 개념 부족)
