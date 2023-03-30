@@ -55,6 +55,7 @@
 # 38. 로또의 최고 순위와 최저 순위 - Level1(Solved)
 # 39. 약수의 개수와 덧셈 - Level1(Solved)
 # 40. 최소직사각형 - Level1(Solved)
+# 41. 신고 결과 받기 KaKao - Level1(Solved)
 
 ---
 
