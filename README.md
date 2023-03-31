@@ -56,6 +56,7 @@
 # 39. 약수의 개수와 덧셈 - Level1(Solved)
 # 40. 최소직사각형 - Level1(Solved)
 # 41. 신고 결과 받기 KaKao - Level1(Solved)
+# 42. 나머지가 1이 되는 수 찾기 - Level1(Solved)
 
 ---
 
