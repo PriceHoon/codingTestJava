@@ -57,7 +57,7 @@
 # 40. 최소직사각형 - Level1(Solved)
 # 41. 신고 결과 받기 KaKao - Level1(Solved)
 # 42. 나머지가 1이 되는 수 찾기 - Level1(Solved)
-
+# 43. 성격유형 검사 KaKao - Level1(Solved)
 ---
 
 # Level - 2
