@@ -65,6 +65,8 @@
 # 46. 옹알이 - Level1(Solved)
 # 47. 명예의 전당 - Level1(Difficult)
 (k가 scores보다 작은 상황을 생각하지 못했었고, 우선순위 큐를 사용해서 푼 풀이를 보고 감탄함.)
+# 48. 명예의 전당 - Level1(Unsolved)
+(문자열 replace 로직 사용시 시간초과로 풀이를 봤음.)
 
 ---
 
