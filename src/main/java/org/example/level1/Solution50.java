@@ -49,11 +49,7 @@ public class Solution50 {
                 answer++;
             }
 
-
         }
-
-
-
         return answer;
     }
 
