@@ -76,6 +76,8 @@
 # 53. 개인정보 수집 유효기간 KaKao - Level1(Solved)
 # 54. 둘만의 암호 - Level1(Unsolved)
 (접근은 동일했으나, 제어문의 순서가 조금 잘못 됐었음...)
+# 55. 카드 뭉치 - Level1(Solved)
+
 ---
 
 # Level - 2
