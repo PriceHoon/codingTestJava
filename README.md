@@ -84,6 +84,7 @@
 # 58. 바탕화면 정리 - Level1(Solved)
 # 59. 공원 산책 - Level1(Solved)
 # 60. 추억 점수 - Level1(Solved)
+# 61. 달리기 경주 - Level1(Solved)
 
 
 ---
