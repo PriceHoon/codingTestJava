@@ -92,6 +92,6 @@
 # Level - 2
 
 # 1. 땅따먹기 - Level2(Unsolved)
+(dp에 대한 개념 부족)
 # 2. 최대값과 최소값 - Level2(Solved)
 
-(dp에 대한 개념 부족)
