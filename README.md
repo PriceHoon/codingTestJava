@@ -96,4 +96,5 @@
 # 2. 최대값과 최소값 - Level2(Solved)
 # 3. JadenCase 문자열 만들기 - Level2(Solved)
 (공백이 하나 이상일 수 있다는 사실을 알고 다시 접근)
+# 4. 올바른 괄호 - Level2(Solved)
 
