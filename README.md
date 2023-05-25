@@ -94,4 +94,6 @@
 # 1. 땅따먹기 - Level2(Unsolved)
 (dp에 대한 개념 부족)
 # 2. 최대값과 최소값 - Level2(Solved)
+# 3. JadenCase 문자열 만들기 - Level2(Solved)
+(공백이 하나 이상일 수 있다는 사실을 알고 다시 접근)
 
