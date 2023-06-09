@@ -105,4 +105,5 @@
 (n=1 or n=2일 때 경우를 생각하지 못했고, 뒤늦게 생각남.)
 # 8. 다음 큰 숫자 - Level2(Solved)
 (Intger.toBinaryString()을 사용했지만, Intger.bitCount()의 메서드가 더 효율적.. 생각해보자)
-
+# 9. 피보나치 수 - Level2(Solved)
+(모듈러 연산의 속성을 잘 기억하자!)
